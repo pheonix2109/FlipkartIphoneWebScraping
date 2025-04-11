@@ -17,8 +17,6 @@ Features:
 
 Approach for the project
 
-    This project follows a modular and efficient approach to scraping structured product data from Flipkart, specifically targeting iPhone listings. Here's a breakdown of the methodology:
-
     1. Understanding the Flipkart Page Structure
         - Inspected the Flipkart search result pages using browser DevTools.
         - Identified the HTML container (div with class like tUxRFH) that holds individual product cards.
