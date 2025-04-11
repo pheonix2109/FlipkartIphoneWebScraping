@@ -22,5 +22,5 @@ Technologies: Python, Pandas, BeautifulSoup, Requests, Multi-threading.
 
 Notebook
 
-Link : 
+Link : https://github.com/pheonix2109/FlipkartIphoneWebScraping/blob/main/FlipkartIphonesWebSraping.ipynb
 
