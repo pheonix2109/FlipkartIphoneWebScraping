@@ -49,7 +49,7 @@ Approach for the project
 
     6. Output Preparation
         - Stored all extracted data in a list of dictionaries.
-        - Designed the output to be easily convertible to CSV, JSON, or Pandas DataFrame for further processing or storage.
+        - Designed the output to be easily convertible to CSV, or Pandas DataFrame for further processing or storage.
         - Example data format includes structured keys: Title, Description, Price, Rating, and Review.
 
 Summary
