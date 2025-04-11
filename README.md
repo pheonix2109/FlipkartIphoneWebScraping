@@ -52,12 +52,14 @@ Approach for the project
         - Designed the output to be easily convertible to CSV, or Pandas DataFrame for further processing or storage.
         - Example data format includes structured keys: Title, Description, Price, Rating, and Review.
 
-Summary
-        
-    By combining precise HTML parsing with multithreaded execution, this project efficiently extracts and structures product data from Flipkart while remaining resilient to slight changes in page layout or content.
 
+Technologies: 
 
-Technologies: Python, Pandas, BeautifulSoup, Requests, Multi-threading.
+    - Python, 
+    - Pandas, 
+    - BeautifulSoup, 
+    - Requests, 
+    - Multi-threading.
 
 Notebook
 
