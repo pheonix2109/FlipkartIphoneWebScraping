@@ -24,3 +24,5 @@ Notebook
 
 Link : https://github.com/pheonix2109/FlipkartIphoneWebScraping/blob/main/FlipkartIphonesWebSraping.ipynb
 
+CSV 
+Link : https://github.com/pheonix2109/FlipkartIphoneWebScraping/blob/main/flipkart_iphones.csv
